@@ -15,7 +15,7 @@ Pipeline {
 
     stage ('TEST') {
       steps {
-        echo "This is Build Test"
+        echo "This is Test stage"
       }
     }
     
